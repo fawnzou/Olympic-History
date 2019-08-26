@@ -6,6 +6,6 @@ Where have the games been held? The first map shows us where, with locations col
 
 For now, this page can be accessed through https://sdarby713-ohistory.herokuapp.com/
 
-You can also check the final application screenshot
+## You can also check the final application screenshot
 
 ![screenshot](Screenshot_Olympic_History.png)
